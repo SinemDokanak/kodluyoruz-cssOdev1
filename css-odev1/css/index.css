@@ -1,0 +1,29 @@
+/*Ana Sayfa */
+body {
+    background-color: antiquewhite;
+    text-align: center;
+}
+nav h1 {
+    color: chocolate;
+}
+nav a {
+    color: black;
+}
+img {
+    border-radius: 15px;
+}
+ul li {
+    list-style-position: inside;
+    text-decoration: none;
+}
+/* Product Bölümü*/
+
+.img-pro {
+    display:flex;
+    text-align: center;
+
+    justify-content: center !important;
+}
+.img-pro img {
+    width: 200px;
+}
